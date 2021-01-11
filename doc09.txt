@@ -1,0 +1,23 @@
+commit 8dc76a1b8ba0924ccb7eb0aa1168d655856baa58 (HEAD -> master, origin/master)
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Tue Jan 12 00:12:29 2021 +0100
+
+    Creation du doc07 et ajout des differences entre le doc04 et le doc06
+
+commit 6dbec8a6e63830d2d0536c5fb776241a56ebe60f
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Tue Jan 12 00:06:14 2021 +0100
+
+    Modification du doc06 et ajout du contenu de git log
+
+commit 809c22255af29e5fb6b2079aaebc410a214ccac9
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Tue Jan 12 00:02:42 2021 +0100
+
+    Modification du doc05 et ajout du contenu de git status
+
+commit 9c2d01eceaebae240a32a62e71134d0083f9a9ff
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Tue Jan 12 00:00:57 2021 +0100
+
+    Creation du doc05
